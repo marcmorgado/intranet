@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     'apps.unidade',
     'apps.funcionarios',
     'apps.setores',
+    'apps.documentos',
+    'apps.registro_dejep',
 ]
 
 MIDDLEWARE = [
